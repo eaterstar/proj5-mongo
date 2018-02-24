@@ -1,5 +1,22 @@
 # Project 5: Brevet time calculator with Ajax and MongoDB
 
+Yite Zhao
+
+  	for py file: 	add two functions for control buttons.
+					add a list for result.
+	for others:		change Dockerfile
+					change requirements.txt
+					add files from proj4
+					change docker compose.yml
+					add some html files in templates
+
+
+
+
+
+
+
+
 Simple list of controle times from project 4 stored in MongoDB database.
 
 ## What is in this repository
